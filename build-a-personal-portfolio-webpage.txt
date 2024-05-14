@@ -1,0 +1,186 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head> <head>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.8.2/css/all.css"
+      integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
+      crossorigin="anonymous"
+    />
+		<link
+      href="https://fonts.googleapis.com/css?family=Poppins:200i,300,400&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://fonts.googleapis.com/css?family=Raleway:700&display=swap"
+      rel="stylesheet"
+    />
+		</head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://kit.fontawesome.com/9650a62e47.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+  <title>Personal Portfolio Webpage</title>
+</head>
+<body>
+  <!-- PAGE ABOUT -->
+  <header id="about">
+    <nav id="navbar">
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#work">Work</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+    <!-- START WELCOME--> 
+    <section id="welcome-section" class="welcome-section">
+      <h1>Wanda Dixon</h1>
+      <p>a web creator</p>
+    </section>
+    <!-- END WELCOME SECTION -->
+  </header>
+	<main>
+		</section>
+		<section id="projects">
+			<h2>Projects</h2>
+			<hr>
+			<div class="projects-img">
+			<img class="project-tile" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" alt="page">
+			<img class="project-tile" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" alt="page">
+			<img class="project-tile" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" alt="page">
+			<img class="project-tile" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" alt="page">
+			<img class="project-tile" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" alt="page">
+			<img class="project-tile" src="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg" alt="page">
+			</div>
+			<button><a target="_blank" href="https://cdn.freecodecamp.org/testable-projects-fcc/images/tribute.jpg"></a>Connect</button>
+		</section>
+		<section id="Work">
+			<h2>Work</h2>
+			<p>Contacts</p>
+			<div class="links">
+			<a id="profile-link" target="_blank" href="https://github.com/freecodecamp">Github</a>
+			<a href="https://github.com/freecodecamp">Github</a>
+			<a href="https://github.com/freecodecamp">Github</a>
+			<a href="https://github.com/freecodecamp">Github</a>
+			<a href="https://github.com/freecodecamp">Github</a>
+			</div>
+		</section>
+    <footer>
+      <p>
+        **This is just a fake portfolio. All the projects and contact details
+        given are not real.
+      </p>
+      <p>
+        &copy; Created for
+        <a href="https://www.freecodecamp.com/" target="_blank"
+          >freeCodeCamp <i class="fab fa-free-code-camp"></i
+        ></a>
+      </p>
+    </footer>
+    <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
+
+		<button><a target="_blank" href="https://cdn.freecode
+	</main>
+</body>
+
+</html>
+
+  
+
+** end of undefined **
+
+** start of undefined **
+
+<link rel="stylesheet" href="styles.css">
+
+
+link
+href="https://fonts.googleapis.com/css?family=Poppins:200i,300,400&display=swap"
+  body {
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+header {
+	position: fixed;
+	top: 0;
+		background-color: #E91;
+		width: 100%;
+	height: 50px;
+}
+#navbar {
+	display: flex;
+	justify-content: center;
+	padding: 15px 0;
+}
+#navbar a {
+	margin: 0 20px 0;
+	}
+
+	/*******************/
+main {
+	margin: 50px 0 0;
+}
+#welcome-section {
+	height: 100vh;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+}
+h2 {
+	text-align: center;
+}
+
+.projects-img {
+	display: flex;
+	flex-wrap: wrap;
+	}
+
+img {
+	width: 400px;
+	height: 400px;
+}
+
+#Work {
+	background: #D82;
+	display: block;
+	padding: 30px 0;
+	margin: 50px 0 0;
+}
+p {
+	text-align: center;
+}
+#Work a {
+	padding: 0 20px 0 0;
+	display: inline-block;
+}
+.links {
+	display: flex;
+	justify-content: center;
+}
+
+button {
+	margin: 50px auto;
+	width: 100px;
+	height: 50px;
+	display: block;
+	background-color: #D62;
+}
+
+@media {max-width: 780px;}{
+img {
+	width: 300px;
+	height: 300px;
+}
+}
+		</style>    
+
+** end of undefined **
+
